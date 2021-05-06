@@ -12,6 +12,7 @@ But before you are able to always play Marbles, you have to do a few things:
 2. [Request an oauth code](https://twitchapps.com/tmi/). You need to login, so it can generate the code for you.
 3. [Register an application](https://dev.twitch.tv/console/apps/create) and request a client-id, so you can interact with Twitch's API.
 4. Don't forget to download [Python](https://www.python.org/downloads/) to be able to run the program!
+5. Install the dependencies in requirements.txt with `pip install -r requirements.txt`.
 
 ### Configuring the bot
 For the bot configuration you have to create and .env file in the directory of the project. \
